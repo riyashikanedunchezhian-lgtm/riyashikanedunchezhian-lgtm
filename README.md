@@ -1,26 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,35:6C5CE7,70:00E5A0,100:0A0A0B&height=260&section=header&text=RIYASHIKA%20NEDUNCHEZHIAN&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Founding%20Engineer%20%40%20OBLIQ.in%20%C2%B7%20AI%2FLLM%20Systems%20Engineer&descAlignY=54&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,35:3B82F6,70:22D3EE,100:0A0E17&height=260&section=header&text=RIYASHIKA%20NEDUNCHEZHIAN&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Founding%20Engineer%20%40%20OBLIQ.in%20%C2%B7%20AI%2FLLM%20Systems%20Engineer&descAlignY=54&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00E5A0&center=true&vCenter=true&width=750&lines=Designing+multi-agent+LLM+systems+that+actually+ship;LangGraph+%7C+RAG+%7C+Tool-Calling+%7C+Cost-Aware+Routing;LLM-as-a-Judge+%7C+Jury+Aggregation+%7C+Bias+Mitigation;Founding+Engineer+%40+OBLIQ.in+%7C+9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Designing+multi-agent+LLM+systems+that+actually+ship;LangGraph+%7C+RAG+%7C+Tool-Calling+%7C+Cost-Aware+Routing;LLM-as-a-Judge+%7C+Jury+Aggregation+%7C+Bias+Mitigation;Founding+Engineer+%40+OBLIQ.in+%7C+9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88" alt="Typing SVG" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyashika-nedunchezhian-a17227390)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyashikanedunchezhian@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyashikanedunchezhian-lgtm)
-![Profile Views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)
 
 <br>
 
-![Location](https://img.shields.io/badge/📍_Coimbatore,_India-131316?style=flat-square&labelColor=131316&color=6C5CE7)
-![CGPA](https://img.shields.io/badge/CGPA-9.17%2F10-00E5A0?style=flat-square&labelColor=131316)
-![University](https://img.shields.io/badge/CIT-2025_–_2029-6C5CE7?style=flat-square&labelColor=131316)
-![Status](https://img.shields.io/badge/Status-Building_@_OBLIQ.in-00E5A0?style=flat-square&labelColor=131316)
+![Location](https://img.shields.io/badge/📍_Coimbatore,_India-131316?style=flat-square&labelColor=131316&color=3B82F6)
+![CGPA](https://img.shields.io/badge/CGPA-9.17%2F10-22D3EE?style=flat-square&labelColor=131316)
+![University](https://img.shields.io/badge/CIT-2025_–_2029-3B82F6?style=flat-square&labelColor=131316)
+![Status](https://img.shields.io/badge/Status-Building_@_OBLIQ.in-22D3EE?style=flat-square&labelColor=131316)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:22D3EE&height=3" />
 
 <h3 align="center">🚀 About Me</h3>
 
@@ -56,7 +56,7 @@ class Riyashika:
 - 🌐 Selected member — **AMD**, **NVIDIA** & **6G Developer Programs** · Member, **FOSSASIA** · **Google Product Expert**
 - 🦈 Active open-source contributor — GitHub **Pull Shark** achievement
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:6C5CE7&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:3B82F6&height=3" />
 
 <h3 align="center">💼 Experience</h3>
 
@@ -74,7 +74,7 @@ One of the earliest engineers on OBLIQ's founding team, building an audit-workfl
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:22D3EE&height=3" />
 
 <h3 align="center">🧩 Featured Projects</h3>
 <p align="center"><i>Agentic systems, evaluation harnesses, and production-grade backends</i></p>
@@ -179,7 +179,7 @@ Offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) with a Pomodoro fo
 
 Explore the full collection of repos — learning projects, forks under study, and experiments in progress.
 
-[![View All Repos](https://img.shields.io/badge/View_All_Repositories-131316?style=for-the-badge&logo=github&logoColor=00E5A0)](https://github.com/riyashikanedunchezhian-lgtm?tab=repositories)
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-131316?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/riyashikanedunchezhian-lgtm?tab=repositories)
 
 </div>
 
@@ -187,7 +187,7 @@ Explore the full collection of repos — learning projects, forks under study, a
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:6C5CE7&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:3B82F6&height=3" />
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -203,8 +203,8 @@ Explore the full collection of repos — learning projects, forks under study, a
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat-square)
-![Vector DB](https://img.shields.io/badge/ChromaDB-00E5A0?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square)
+![Vector DB](https://img.shields.io/badge/ChromaDB-22D3EE?style=flat-square)
 
 **Backend & Platform**
 <br>
@@ -221,24 +221,24 @@ Explore the full collection of repos — learning projects, forks under study, a
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:22D3EE&height=3" />
 
 <h3 align="center">📈 GitHub Analytics</h3>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0A0B&title_color=00E5A0&icon_color=6C5CE7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=00E5A0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=cobalt&hide_border=true&count_private=true&bg_color=0A0E17&title_color=22D3EE&icon_color=3B82F6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=compact&theme=cobalt&hide_border=true&bg_color=0A0E17&title_color=22D3EE" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyashikanedunchezhian-lgtm&theme=tokyonight&hide_border=true&background=0A0A0B&ring=6C5CE7&fire=00E5A0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyashikanedunchezhian-lgtm&theme=cobalt&hide_border=true&background=0A0E17&ring=3B82F6&fire=22D3EE" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=riyashikanedunchezhian-lgtm&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=riyashikanedunchezhian-lgtm&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:6C5CE7&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:3B82F6&height=3" />
 
 <h3 align="center">🌐 Programs & Affiliations</h3>
 
@@ -246,15 +246,15 @@ Explore the full collection of repos — learning projects, forks under study, a
 
 ![AMD](https://img.shields.io/badge/AMD-Developer_Program-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![6G](https://img.shields.io/badge/6G-Developer_Program-6C5CE7?style=for-the-badge)
+![6G](https://img.shields.io/badge/6G-Developer_Program-3B82F6?style=for-the-badge)
 
 ![FOSSASIA](https://img.shields.io/badge/FOSSASIA-Global_Member-F97316?style=for-the-badge)
-![FOSS CIT](https://img.shields.io/badge/FOSS_CIT-Technical_Team-00E5A0?style=for-the-badge)
+![FOSS CIT](https://img.shields.io/badge/FOSS_CIT-Technical_Team-22D3EE?style=for-the-badge)
 ![Google](https://img.shields.io/badge/Google-Product_Expert-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:22D3EE&height=3" />
 
 <h3 align="center">📊 Contribution Snake</h3>
 
@@ -265,7 +265,7 @@ Explore the full collection of repos — learning projects, forks under study, a
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,35:6C5CE7,70:00E5A0,100:0A0A0B&height=180&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,35:3B82F6,70:22D3EE,100:0A0E17&height=180&section=footer" />
 
 <div align="center">
 
