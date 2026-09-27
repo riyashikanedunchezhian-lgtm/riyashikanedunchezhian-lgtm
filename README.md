@@ -1,175 +1,276 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,50:6C5CE7,100:00E5A0&height=220&section=header&text=Riyashika%20Nedunchezhian&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founding%20Engineer%20@%20OBLIQ.in%20·%20AI%2FLLM%20Systems%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems+that+ship;LangGraph+%2B+RAG+%2B+Tool-Calling;LLM-as-a-Judge+Evaluation+%7C+Jury+Aggregation;9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88+%7C+Founding+Engineer" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,35:6C5CE7,70:00E5A0,100:0A0A0B&height=260&section=header&text=RIYASHIKA%20NEDUNCHEZHIAN&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Founding%20Engineer%20%40%20OBLIQ.in%20%C2%B7%20AI%2FLLM%20Systems%20Engineer&descAlignY=54&descSize=17&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/riyashika-nedunchezhian-a17227390"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:riyashikanedunchezhian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/riyashikanedunchezhian-lgtm"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00E5A0&center=true&vCenter=true&width=750&lines=Designing+multi-agent+LLM+systems+that+actually+ship;LangGraph+%7C+RAG+%7C+Tool-Calling+%7C+Cost-Aware+Routing;LLM-as-a-Judge+%7C+Jury+Aggregation+%7C+Bias+Mitigation;Founding+Engineer+%40+OBLIQ.in+%7C+9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Coimbatore%2C%20India-📍-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-9.17%2F10-00E5A0?style=flat-square" />
-  <img src="https://img.shields.io/badge/CIT-2025%E2%80%932029-6C5CE7?style=flat-square" />
-</p>
+<br>
 
-<p align="center">⸻</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyashika-nedunchezhian-a17227390)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyashikanedunchezhian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyashikanedunchezhian-lgtm)
+![Profile Views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=6C5CE7&section=header" />
+<br>
+
+![Location](https://img.shields.io/badge/📍_Coimbatore,_India-131316?style=flat-square&labelColor=131316&color=6C5CE7)
+![CGPA](https://img.shields.io/badge/CGPA-9.17%2F10-00E5A0?style=flat-square&labelColor=131316)
+![University](https://img.shields.io/badge/CIT-2025_–_2029-6C5CE7?style=flat-square&labelColor=131316)
+![Status](https://img.shields.io/badge/Status-Building_@_OBLIQ.in-00E5A0?style=flat-square&labelColor=131316)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
 
 <h3 align="center">🚀 About Me</h3>
 
-> *"Exploring open-source, systems & Bitcoin — conquering myself to become a new person, one commit at a time."*
+<div align="center">
 
-<table align="center">
+*"Exploring open-source, systems & Bitcoin — conquering myself to become a new person, one commit at a time."*
+
+</div>
+
+<table align="center" width="100%">
+<tr><td>
+
+```
+class Riyashika:
+    def __init__(self):
+        self.role       = "Founding Engineer @ OBLIQ.in"
+        self.focus      = ["Agentic AI", "RAG Systems", "LLM Evaluation", "Backend Platforms"]
+        self.education  = "B.E. CSE @ Coimbatore Institute of Technology (CGPA: 9.17/10)"
+        self.programs   = ["AMD Developer Program", "NVIDIA Developer Program", "6G Developer Program"]
+        self.currently_shipping = "Audit-workflow platform for CA firms — multi-tenant, auditable, secure"
+
+    def philosophy(self):
+        return "Build fast. Test harder. Ship what's provably correct."
+```
+
+</td></tr>
+</table>
+
+- 🔭 Building an **audit-workflow platform for CA firms** — full-stack ownership across backend, data design & security
+- 🧠 Deep focus on **applied AI engineering**: LLM-powered features, agentic workflows, RAG, and rigorous evaluation
+- 🤖 Shipped a multi-node **LangGraph agent** with per-node cost tracking and cost-aware model routing
+- ⚖️ Built an **LLM-as-a-Judge evaluation harness** with 3-judge jury aggregation and bias detection
+- 🌐 Selected member — **AMD**, **NVIDIA** & **6G Developer Programs** · Member, **FOSSASIA** · **Google Product Expert**
+- 🦈 Active open-source contributor — GitHub **Pull Shark** achievement
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:6C5CE7&height=3" />
+
+<h3 align="center">💼 Experience</h3>
+
+<table align="center" width="100%">
 <tr>
-<td>
+<td width="15%" align="center"><b>Sept 2026 —<br>Present</b></td>
+<td width="85%">
 
-- 🔭 Currently building an **audit-workflow platform for CA firms** as Founding Engineer at **OBLIQ.in**
-- 🧠 Focused on **applied AI engineering** — LLM-powered features, agentic workflows, RAG, and evaluation
-- 🎓 B.E. Computer Science @ Coimbatore Institute of Technology (**CGPA: 9.17/10**)
-- 🛠️ Built a multi-node **LangGraph agent** with per-node cost tracking and an **LLM-as-a-Judge evaluation harness** with jury aggregation
-- 🌐 Selected member: **AMD**, **NVIDIA**, and **6G Developer Programs** · Member, **FOSSASIA** · **Google Product Expert**
-- 🦈 Open-source contributor — GitHub **Pull Shark** achievement
-- ⚡ Comfortable across the stack: Python, FastAPI, LLM APIs, vector databases, Kotlin/Compose
+**Founding Engineer · OBLIQ.in**
+One of the earliest engineers on OBLIQ's founding team, building an audit-workflow platform for CA (accounting) firms with full-stack ownership across backend, data design, and security. Selected after independently designing and shipping a working prototype — FastAPI + SQLite, multi-tenant data isolation, append-only audit trail, role-based access control.
+
+`FastAPI` `SQLite` `Multi-Tenant Architecture` `RBAC` `Audit Trails`
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00E5A0&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
 
 <h3 align="center">🧩 Featured Projects</h3>
 <p align="center"><i>Agentic systems, evaluation harnesses, and production-grade backends</i></p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🤖 [Multi-Agent Research Assistant](https://github.com/riyashikanedunchezhian-lgtm/multi-agent-research-assistant)**
-Multi-node LangGraph agent (router → retrieval → tool-calling → synthesis) combining RAG over ChromaDB with agentic tool use and cost-aware model routing.
+### 🤖 Multi-Agent Research Assistant
+Multi-node **LangGraph** agent (router → retrieval → tool-calling → synthesis) combining RAG over ChromaDB with agentic tool use — calculator, web search, code execution.
+
+**Highlights:** per-node cost tracking · cost-aware model routing · full reasoning-trace observability · graceful degradation on tool failure
+
 `Python` `LangGraph` `RAG` `ChromaDB` `FastAPI`
 
-</td>
-<td width="50%">
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/multi-agent-research-assistant)**
 
-**⚖️ [LLM Evaluation Harness](https://github.com/riyashikanedunchezhian-lgtm/llm-evaluation-harness)**
-LLM-as-a-Judge system with 3-judge jury aggregation (3x faster via parallelization) to cut variance and detect position bias, with a live Streamlit dashboard.
-`Python` `Claude & GPT APIs` `Streamlit`
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ LLM Evaluation Harness
+LLM-as-a-Judge system scoring outputs across **5 rubric dimensions** using 3-judge jury aggregation to cut variance and detect position bias.
+
+**Highlights:** `3x latency reduction` via parallelization · quality/latency/cost tracking across Claude & GPT · live Streamlit dashboard
+
+`Python` `LLM-as-a-Judge` `Claude & GPT APIs` `Streamlit`
+
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/llm-evaluation-harness)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🐛 [Agentic Debugger](https://github.com/riyashikanedunchezhian-lgtm/agentic-debugger)**
-Autonomous coding agent that locates bugs via failing pytest suites, writes fixes, and verifies them — sandboxed tool loop with anti-path-traversal guardrails.
+### 🐛 Agentic Debugger
+Autonomous coding agent that reads a codebase, locates bugs via failing pytest suites, writes fixes, and verifies them by rerunning tests.
+
+**Highlights:** sandboxed tool-execution loop (`list_files` `read_file` `write_file` `run_tests` `finish`) · anti path-traversal & test-tampering guardrails · full JSON tracing
+
 `Python` `LLM Tool-Use` `Agent Design`
 
-</td>
-<td width="50%">
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/agentic-debugger)**
 
-**📊 [Traceable Sales Forecasting](https://github.com/riyashikanedunchezhian-lgtm/traceable-sales-forecasting)**
-Prophet-based forecasting on 1M+ row Rossmann dataset — cut MAE 54% vs. baseline, with SHA-256 input hashing for reproducible, auditable predictions.
+</td>
+<td width="50%" valign="top">
+
+### 📊 Traceable Sales Forecasting
+Full-stack forecasting system on the Rossmann dataset (**1M+ rows**, 1,115 stores) — Prophet model with holiday/promotion regressors.
+
+**Highlights:** `54% MAE reduction` vs. baseline (10.8% vs 24.4% MAPE) · SHA-256 input hashing · per-run `/explain` API for deterministic auditability
+
 `Python` `FastAPI` `Prophet`
+
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/traceable-sales-forecasting)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔗 [Webhook Notification Hub](https://github.com/riyashikanedunchezhian-lgtm/web-hook-notification-hub)**
-Production-style webhook pipeline — HMAC-SHA256 verified GitHub events, Redis/Celery queueing, idempotency handling, and a real-time dashboard.
+### 🔗 Webhook Notification Hub
+Production-style webhook pipeline verifying GitHub events via **HMAC-SHA256** (constant-time comparison), queued through Redis/Celery.
+
+**Highlights:** idempotency via delivery-ID + Redis TTL cache · sliding-window rate limiter · exponential-backoff retries · Dockerized · real-time dashboard
+
 `FastAPI` `Redis` `Celery` `Docker`
 
-</td>
-<td width="50%">
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/web-hook-notification-hub)**
 
-**📖 [Kinfolk](https://github.com/riyashikanedunchezhian-lgtm/kinfolk)**
-AI-assisted family oral-history app (MVVM + Clean Architecture) using Gemini API to transcribe interviews and generate chaptered keepsake memory books.
+</td>
+<td width="50%" valign="top">
+
+### 📖 Kinfolk — Family Oral History Studio
+AI-assisted storytelling app (**MVVM + Clean Architecture**) that records family interviews and uses the Gemini API to transcribe, polish, and extract pull-quotes.
+
+**Highlights:** offline-first Room persistence · custom audio waveform recording/playback · chaptered digital memory-book export
+
 `Kotlin` `Compose` `Room` `Gemini`
+
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/kinfolk)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 StudyMate — Student Study Planner
+Offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) with a Pomodoro focus timer, task management, study analytics, and streak tracking.
+
+**Highlights:** parallel **Flutter/Dart** implementation shipped alongside the native Kotlin build
+
+`Kotlin` `Jetpack Compose` `Flutter/Dart`
+
+**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/Study-mate)**
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**🔍 More on GitHub**
+
+Explore the full collection of repos — learning projects, forks under study, and experiments in progress.
+
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-131316?style=for-the-badge&logo=github&logoColor=00E5A0)](https://github.com/riyashikanedunchezhian-lgtm?tab=repositories)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=6C5CE7&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:6C5CE7&height=3" />
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
+<div align="center">
+
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,go,java&theme=dark" />
 
 **AI / LLM**
-![Anthropic](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<br>
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat-square)
+![Vector DB](https://img.shields.io/badge/ChromaDB-00E5A0?style=flat-square)
 
-**Backend & Data**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Backend & Platform**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,redis,docker,mongodb,sqlite&theme=dark" />
 
-**ML**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+![Prophet](https://img.shields.io/badge/Facebook_Prophet-4267B2?style=flat-square&logo=meta&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00E5A0&section=header" />
+**Mobile & Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark" />
 
-<h3 align="center">📈 GitHub Stats</h3>
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyashikanedunchezhian-lgtm&theme=tokyonight&hide_border=true" />
-</p>
+<h3 align="center">📈 GitHub Analytics</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyashikanedunchezhian-lgtm&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=6C5CE7&section=header" />
-
-<h3 align="center">🌐 Programs & Affiliations</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AMD-Developer%20Program-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-Developer%20Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/6G-Developer%20Program-6C5CE7?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FOSSASIA-Member-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOSS%20CIT-Technical%20Team-00E5A0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google-Product%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00E5A0&section=header" />
-
-<h3 align="center">📊 Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riyashikanedunchezhian-lgtm/riyashikanedunchezhian-lgtm/output/github-contribution-grid-snake-dark.svg" />
-</p>
-<p align="center"><sub>✨ Snake animation auto-generates once the workflow below is set up (see note at bottom)</sub></p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0A0B&title_color=00E5A0&icon_color=6C5CE7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=00E5A0" />
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:6C5CE7,100:0A0A0B&height=150&section=footer" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyashikanedunchezhian-lgtm&theme=tokyonight&hide_border=true&background=0A0A0B&ring=6C5CE7&fire=00E5A0" />
 
-<p align="center">
-  <i>⭐️ Currently exploring: open-source, distributed systems & Bitcoin — one repo at a time.</i><br>
-  <sub>Thanks for stopping by — <a href="mailto:riyashikanedunchezhian@gmail.com">let's build something</a> 🚀</sub>
-</p>
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=riyashikanedunchezhian-lgtm&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:6C5CE7&height=3" />
+
+<h3 align="center">🌐 Programs & Affiliations</h3>
+
+<div align="center">
+
+![AMD](https://img.shields.io/badge/AMD-Developer_Program-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![6G](https://img.shields.io/badge/6G-Developer_Program-6C5CE7?style=for-the-badge)
+
+![FOSSASIA](https://img.shields.io/badge/FOSSASIA-Global_Member-F97316?style=for-the-badge)
+![FOSS CIT](https://img.shields.io/badge/FOSS_CIT-Technical_Team-00E5A0?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-Product_Expert-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:00E5A0&height=3" />
+
+<h3 align="center">📊 Contribution Snake</h3>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/riyashikanedunchezhian-lgtm/riyashikanedunchezhian-lgtm/output/github-contribution-grid-snake-dark.svg" />
+<br><sub>✨ Auto-generates once the GitHub Action workflow is set up — ask and I'll build it</sub>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,35:6C5CE7,70:00E5A0,100:0A0A0B&height=180&section=footer" />
+
+<div align="center">
+
+**⭐️ Currently exploring:** open-source · distributed systems · Bitcoin — one repo at a time.
+
+<sub>Thanks for stopping by — [let's build something](mailto:riyashikanedunchezhian@gmail.com) 🚀</sub>
+
+</div>
