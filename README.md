@@ -1,72 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:A61E4D,50:B5541B,75:146356,100:0D0221&height=260&section=header&text=RIYASHIKA%20NEDUNCHEZHIAN&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Founding%20Engineer%20%40%20OBLIQ.in%20%C2%B7%20AI%2FLLM%20Systems%20Engineer&descAlignY=54&descSize=17&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=B5541B&center=true&vCenter=true&width=750&lines=Designing+multi-agent+LLM+systems+that+actually+ship;LangGraph+%7C+RAG+%7C+Tool-Calling+%7C+Cost-Aware+Routing;LLM-as-a-Judge+%7C+Jury+Aggregation+%7C+Bias+Mitigation;Founding+Engineer+%40+OBLIQ.in+%7C+9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:A61E4D,50:B5541B,75:146356,100:0D0221&height=300&section=header" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyashika-nedunchezhian-a17227390)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyashikanedunchezhian@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyashikanedunchezhian-lgtm)
-![Profile Views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=A61E4D&label=PROFILE+VIEWS)
+# RIYASHIKA NEDUNCHEZHIAN
 
 <br>
 
-![Location](https://img.shields.io/badge/📍_Coimbatore,_India-131316?style=flat-square&labelColor=131316&color=A61E4D)
-![CGPA](https://img.shields.io/badge/CGPA-9.17%2F10-B5541B?style=flat-square&labelColor=131316)
-![University](https://img.shields.io/badge/CIT-2025_–_2029-A61E4D?style=flat-square&labelColor=131316)
-![Status](https://img.shields.io/badge/Status-Building_@_OBLIQ.in-B5541B?style=flat-square&labelColor=131316)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=B5541B&center=true&vCenter=true&width=800&lines=Founding+Engineer+%E2%80%94+OBLIQ.in;AI%2FLLM+Systems+Engineer;Agentic+Workflows+%C2%B7+RAG+%C2%B7+Evaluation" alt="Typing SVG" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=B5541B&labelColor=0D0221)](https://linkedin.com/in/riyashika-nedunchezhian-a17227390)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=A61E4D&labelColor=0D0221)](mailto:riyashikanedunchezhian@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=146356&labelColor=0D0221)](https://github.com/riyashikanedunchezhian-lgtm)
+
+<br>
+
+![views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=flat-square&color=B5541B&label=PROFILE+VIEWS)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,100:B5541B&height=3" />
+<br><br>
 
-<h3 align="center">🚀 About Me</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,50:B5541B,100:146356&height=2" />
+
+<br>
+
+<div align="center">
+<h3>I. OVERVIEW</h3>
+</div>
+
+<br>
+
+<table align="center" width="92%">
+<tr><td>
 
 <div align="center">
 
-*"Exploring open-source, systems & Bitcoin — conquering myself to become a new person, one commit at a time."*
+*"Exploring open-source, systems & Bitcoin —*
+*conquering myself to become a new person, one commit at a time."*
 
 </div>
-
-<table align="center" width="100%">
-<tr><td>
-
-```
-class Riyashika:
-    def __init__(self):
-        self.role       = "Founding Engineer @ OBLIQ.in"
-        self.focus      = ["Agentic AI", "RAG Systems", "LLM Evaluation", "Backend Platforms"]
-        self.education  = "B.E. CSE @ Coimbatore Institute of Technology (CGPA: 9.17/10)"
-        self.programs   = ["AMD Developer Program", "NVIDIA Developer Program", "6G Developer Program"]
-        self.currently_shipping = "Audit-workflow platform for CA firms — multi-tenant, auditable, secure"
-
-    def philosophy(self):
-        return "Build fast. Test harder. Ship what's provably correct."
-```
 
 </td></tr>
 </table>
 
-- 🔭 Building an **audit-workflow platform for CA firms** — full-stack ownership across backend, data design & security
-- 🧠 Deep focus on **applied AI engineering**: LLM-powered features, agentic workflows, RAG, and rigorous evaluation
-- 🤖 Shipped a multi-node **LangGraph agent** with per-node cost tracking and cost-aware model routing
-- ⚖️ Built an **LLM-as-a-Judge evaluation harness** with 3-judge jury aggregation and bias detection
-- 🌐 Selected member — **AMD**, **NVIDIA** & **6G Developer Programs** · Member, **FOSSASIA** · **Google Product Expert**
-- 🦈 Active open-source contributor — GitHub **Pull Shark** achievement
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B5541B,100:A61E4D&height=3" />
+Founding Engineer at **OBLIQ.in** and a computer science undergraduate (**B.E. CSE, CGPA 9.17/10**) working at the intersection of applied AI and production systems. My work sits across three layers: **agentic reasoning** — multi-node LangGraph systems that route, retrieve, and act; **evaluation infrastructure** — LLM-as-a-Judge harnesses that measure whether those systems can be trusted; and **backend engineering** — the audit trails, access controls, and idempotent pipelines that make AI-adjacent products safe to ship.
 
-<h3 align="center">💼 Experience</h3>
+<br>
 
-<table align="center" width="100%">
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **9.17 / 10** | **20+** | **6** |
+| CGPA | Repositories | Developer Programs |
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:146356,50:B5541B,100:A61E4D&height=2" />
+
+<br>
+
+<div align="center">
+<h3>II. HOW I WORK</h3>
+</div>
+
+<br>
+
+<table align="center" width="92%">
 <tr>
-<td width="15%" align="center"><b>Sept 2026 —<br>Present</b></td>
-<td width="85%">
+<td width="33%" valign="top" align="center">
 
-**Founding Engineer · OBLIQ.in**
-One of the earliest engineers on OBLIQ's founding team, building an audit-workflow platform for CA (accounting) firms with full-stack ownership across backend, data design, and security. Selected after independently designing and shipping a working prototype — FastAPI + SQLite, multi-tenant data isolation, append-only audit trail, role-based access control.
+**Reason, then act**
+
+Agentic systems should route to the cheapest sufficient model, log every reasoning step, and degrade gracefully when a tool fails — never fail silently.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Measure the measurer**
+
+An LLM output is only as trustworthy as its evaluation. I build jury-based, bias-checked harnesses rather than trusting a single judge call.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Make it auditable**
+
+Every system I ship — from webhook pipelines to forecasting dashboards — carries traceability: hashed inputs, append-only logs, deterministic replays.
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,50:B5541B,100:146356&height=2" />
+
+<br>
+
+<div align="center">
+<h3>III. EXPERIENCE</h3>
+</div>
+
+<br>
+
+<table align="center" width="92%">
+<tr>
+<td width="20%" valign="top">
+
+<sub>SEPT 2026 —<br>PRESENT</sub>
+
+</td>
+<td width="80%">
+
+**Founding Engineer, OBLIQ.in**
+
+One of the earliest engineers on the founding team, building an audit-workflow platform for CA (accounting) firms with full-stack ownership across backend, data design, and security. Selected after independently designing and shipping a working prototype featuring multi-tenant data isolation, an append-only audit trail, and role-based access control.
 
 `FastAPI` `SQLite` `Multi-Tenant Architecture` `RBAC` `Audit Trails`
 
@@ -74,158 +133,171 @@ One of the earliest engineers on OBLIQ's founding team, building an audit-workfl
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,100:B5541B&height=3" />
+<br><br>
 
-<h3 align="center">🧩 Featured Projects</h3>
-<p align="center"><i>Agentic systems, evaluation harnesses, and production-grade backends</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:146356,50:B5541B,100:A61E4D&height=2" />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🤖 Multi-Agent Research Assistant
-Multi-node **LangGraph** agent (router → retrieval → tool-calling → synthesis) combining RAG over ChromaDB with agentic tool use — calculator, web search, code execution.
+<div align="center">
+<h3>IV. SELECTED WORK</h3>
+<sub>Agentic systems, evaluation infrastructure, and production-grade backends</sub>
+</div>
 
-**Highlights:** per-node cost tracking · cost-aware model routing · full reasoning-trace observability · graceful degradation on tool failure
+<br>
 
-`Python` `LangGraph` `RAG` `ChromaDB` `FastAPI`
+<table align="center" width="92%">
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/multi-agent-research-assistant)**
+**01 — Multi-Agent Research Assistant**
 
-</td>
-<td width="50%" valign="top">
+A multi-node LangGraph agent — router, retrieval, tool-calling, synthesis — combining RAG over a ChromaDB vector store with agentic tool use across a calculator, web search, and code execution.
 
-### ⚖️ LLM Evaluation Harness
-LLM-as-a-Judge system scoring outputs across **5 rubric dimensions** using 3-judge jury aggregation to cut variance and detect position bias.
+*Per-node token/cost tracking with cost-aware routing → cheap model for routing, stronger model for synthesis. Full reasoning-trace observability. Graceful degradation on tool failure.*
 
-**Highlights:** `3x latency reduction` via parallelization · quality/latency/cost tracking across Claude & GPT · live Streamlit dashboard
+`Python` `LangGraph` `RAG` `ChromaDB` `FastAPI` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/multi-agent-research-assistant)
 
-`Python` `LLM-as-a-Judge` `Claude & GPT APIs` `Streamlit`
+</td></tr>
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/llm-evaluation-harness)**
+**02 — LLM Evaluation Harness**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An LLM-as-a-Judge system scoring outputs across five rubric dimensions using three-judge jury aggregation to reduce single-judge variance and detect position bias.
 
-### 🐛 Agentic Debugger
-Autonomous coding agent that reads a codebase, locates bugs via failing pytest suites, writes fixes, and verifies them by rerunning tests.
+*3x latency reduction via parallelized judging. Quality, latency, and per-call cost tracked across Claude and GPT variants on 25 test prompts. Live Streamlit dashboard visualizing tradeoffs.*
 
-**Highlights:** sandboxed tool-execution loop (`list_files` `read_file` `write_file` `run_tests` `finish`) · anti path-traversal & test-tampering guardrails · full JSON tracing
+`Python` `LLM-as-a-Judge` `Claude & GPT APIs` `Streamlit` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/llm-evaluation-harness)
 
-`Python` `LLM Tool-Use` `Agent Design`
+</td></tr>
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/agentic-debugger)**
+**03 — Agentic Debugger**
 
-</td>
-<td width="50%" valign="top">
+An autonomous coding agent that reads a codebase, locates bugs via failing pytest suites, writes fixes, and verifies them by rerunning tests before declaring success.
 
-### 📊 Traceable Sales Forecasting
-Full-stack forecasting system on the Rossmann dataset (**1M+ rows**, 1,115 stores) — Prophet model with holiday/promotion regressors.
+*Sandboxed tool-execution loop — list_files, read_file, write_file, run_tests, finish — with guardrails against path traversal and test-tampering, plus full JSON tracing.*
 
-**Highlights:** `54% MAE reduction` vs. baseline (10.8% vs 24.4% MAPE) · SHA-256 input hashing · per-run `/explain` API for deterministic auditability
+`Python` `LLM Tool-Use` `Agent Design` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/agentic-debugger)
 
-`Python` `FastAPI` `Prophet`
+</td></tr>
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/traceable-sales-forecasting)**
+**04 — Traceable Sales Forecasting Dashboard**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A full-stack forecasting system on the Rossmann Store Sales dataset (1M+ rows, 1,115 stores), using a Prophet model with holiday and promotion regressors.
 
-### 🔗 Webhook Notification Hub
-Production-style webhook pipeline verifying GitHub events via **HMAC-SHA256** (constant-time comparison), queued through Redis/Celery.
+*54% MAE reduction versus a moving-average baseline (10.8% vs. 24.4% MAPE). A traceability layer hashes every forecast's exact input data via SHA-256, with a per-run /explain API for deterministic, reproducible outputs.*
 
-**Highlights:** idempotency via delivery-ID + Redis TTL cache · sliding-window rate limiter · exponential-backoff retries · Dockerized · real-time dashboard
+`Python` `FastAPI` `Prophet` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/traceable-sales-forecasting)
 
-`FastAPI` `Redis` `Celery` `Docker`
+</td></tr>
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/web-hook-notification-hub)**
+**05 — Webhook Notification Hub**
 
-</td>
-<td width="50%" valign="top">
+A production-style webhook processing system verifying GitHub events via HMAC-SHA256 with constant-time comparison, queued through Redis and Celery for decoupled async processing.
 
-### 📖 Kinfolk — Family Oral History Studio
-AI-assisted storytelling app (**MVVM + Clean Architecture**) that records family interviews and uses the Gemini API to transcribe, polish, and extract pull-quotes.
+*Idempotency via delivery-ID and Redis TTL cache, a sliding-window rate limiter, and exponential-backoff retries. Real-time event dashboard, containerized with Docker.*
 
-**Highlights:** offline-first Room persistence · custom audio waveform recording/playback · chaptered digital memory-book export
+`FastAPI` `Redis` `Celery` `Docker` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/web-hook-notification-hub)
 
-`Kotlin` `Compose` `Room` `Gemini`
+</td></tr>
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/kinfolk)**
+**06 — Kinfolk — Family Oral History Story Studio**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An AI-assisted storytelling app, built with MVVM and Clean Architecture, that records family interviews and uses the Gemini API to transcribe, polish narratives, and extract pull-quotes into keepsake cards.
 
-### 📚 StudyMate — Student Study Planner
-Offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) with a Pomodoro focus timer, task management, study analytics, and streak tracking.
+*Offline-first Room persistence, custom audio waveform recording and playback, chaptered digital memory-book export.*
 
-**Highlights:** parallel **Flutter/Dart** implementation shipped alongside the native Kotlin build
+`Kotlin` `Compose` `Room` `Gemini` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/kinfolk)
 
-`Kotlin` `Jetpack Compose` `Flutter/Dart`
+</td></tr>
+<tr><td>
 
-**[→ View Repo](https://github.com/riyashikanedunchezhian-lgtm/Study-mate)**
+**07 — StudyMate — Student Study Planner**
 
-</td>
-<td width="50%" valign="top">
+An offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) featuring a Pomodoro focus timer, subject and task management, study analytics, and streak tracking — with a parallel Flutter/Dart implementation shipped alongside it.
+
+`Kotlin` `Jetpack Compose` `Flutter/Dart` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/Study-mate)
+
+</td></tr>
+</table>
+
+<br>
 
 <div align="center">
 
-**🔍 More on GitHub**
-
-Explore the full collection of repos — learning projects, forks under study, and experiments in progress.
-
-[![View All Repos](https://img.shields.io/badge/View_All_Repositories-131316?style=for-the-badge&logo=github&logoColor=B5541B)](https://github.com/riyashikanedunchezhian-lgtm?tab=repositories)
+[![View all repositories](https://img.shields.io/badge/View_All_Repositories-0D0221?style=for-the-badge&logo=github&logoColor=B5541B&labelColor=0D0221)](https://github.com/riyashikanedunchezhian-lgtm?tab=repositories)
 
 </div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,50:B5541B,100:146356&height=2" />
+
+<br>
+
+<div align="center">
+<h3>V. TECHNICAL SURFACE</h3>
+</div>
+
+<br>
+
+<table align="center" width="92%">
+<tr>
+<td width="25%" valign="top">
+
+**Languages**
+
+Python · Kotlin
+JavaScript · Go · SQL
+
+</td>
+<td width="25%" valign="top">
+
+**AI / LLM**
+
+Anthropic Claude · OpenAI
+Gemini · LangGraph
+RAG · ChromaDB
+
+</td>
+<td width="25%" valign="top">
+
+**Backend**
+
+FastAPI · Flask
+Redis · Celery
+MongoDB · Docker
+
+</td>
+<td width="25%" valign="top">
+
+**ML & Mobile**
+
+TensorFlow · PyTorch
+scikit-learn · Prophet
+Kotlin Compose · Flutter
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B5541B,100:A61E4D&height=3" />
+<br><br>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:146356,50:B5541B,100:A61E4D&height=2" />
+
+<br>
 
 <div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,go,java&theme=dark" />
-
-**AI / LLM**
-<br>
-![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-A61E4D?style=flat-square)
-![Vector DB](https://img.shields.io/badge/ChromaDB-B5541B?style=flat-square)
-
-**Backend & Platform**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,redis,docker,mongodb,sqlite&theme=dark" />
-
-**Machine Learning**
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-![Prophet](https://img.shields.io/badge/Facebook_Prophet-4267B2?style=flat-square&logo=meta&logoColor=white)
-
-**Mobile & Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark" />
-
+<h3>VI. GITHUB ANALYTICS</h3>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,100:B5541B&height=3" />
-
-<h3 align="center">📈 GitHub Analytics</h3>
+<br>
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=0D0221&title_color=B5541B&icon_color=A61E4D" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D0221&title_color=B5541B" />
 
@@ -236,41 +308,55 @@ Explore the full collection of repos — learning projects, forks under study, a
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=riyashikanedunchezhian-lgtm&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B5541B,100:A61E4D&height=3" />
-
-<h3 align="center">🌐 Programs & Affiliations</h3>
-
-<div align="center">
-
-![AMD](https://img.shields.io/badge/AMD-Developer_Program-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![6G](https://img.shields.io/badge/6G-Developer_Program-A61E4D?style=for-the-badge)
-
-![FOSSASIA](https://img.shields.io/badge/FOSSASIA-Global_Member-F97316?style=for-the-badge)
-![FOSS CIT](https://img.shields.io/badge/FOSS_CIT-Technical_Team-B5541B?style=for-the-badge)
-![Google](https://img.shields.io/badge/Google-Product_Expert-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,100:B5541B&height=3" />
+<br><br>
 
-<h3 align="center">📊 Contribution Snake</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,50:B5541B,100:146356&height=2" />
+
+<br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/riyashikanedunchezhian-lgtm/riyashikanedunchezhian-lgtm/output/github-contribution-grid-snake-dark.svg" />
-<br><sub>✨ Auto-generates once the GitHub Action workflow is set up — ask and I'll build it</sub>
+<h3>VII. PROGRAMS & AFFILIATIONS</h3>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:A61E4D,50:B5541B,75:146356,100:0D0221&height=180&section=footer" />
+<div align="center">
+
+AMD Developer Program &nbsp;·&nbsp; NVIDIA Developer Program &nbsp;·&nbsp; 6G Developer Program
+&nbsp;&nbsp;/&nbsp;&nbsp;
+FOSSASIA &nbsp;·&nbsp; FOSS CIT Technical Team &nbsp;·&nbsp; Google Product Expert
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:146356,50:B5541B,100:A61E4D&height=2" />
+
+<br>
+
+<div align="center">
+<h3>VIII. CONTRIBUTION ACTIVITY</h3>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/riyashikanedunchezhian-lgtm/riyashikanedunchezhian-lgtm/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br><br>
 
 <div align="center">
 
-**⭐️ Currently exploring:** open-source · distributed systems · Bitcoin — one repo at a time.
+**Currently exploring:** open-source · distributed systems · Bitcoin
 
-<sub>Thanks for stopping by — [let's build something](mailto:riyashikanedunchezhian@gmail.com) 🚀</sub>
+<sub>[Let's build something](mailto:riyashikanedunchezhian@gmail.com)</sub>
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:A61E4D,50:B5541B,75:146356,100:0D0221&height=200&section=footer" />
