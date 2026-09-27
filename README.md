@@ -1,31 +1,50 @@
-<h1 align="center">Hi 👋, I'm Riyashika Nedunchezhian</h1>
-<h3 align="center">Founding Engineer @ OBLIQ.in · AI/LLM Systems Engineer · CS Undergrad</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,50:6C5CE7,100:00E5A0&height=220&section=header&text=Riyashika%20Nedunchezhian&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founding%20Engineer%20@%20OBLIQ.in%20·%20AI%2FLLM%20Systems%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+agentic+AI+systems;LangGraph+%2B+RAG+%2B+Tool-Calling;LLM-as-a-Judge+Evaluation;Shipping+fast%2C+testing+harder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems+that+ship;LangGraph+%2B+RAG+%2B+Tool-Calling;LLM-as-a-Judge+Evaluation+%7C+Jury+Aggregation;9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88+%7C+Founding+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/riyashika-nedunchezhian-a17227390"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:riyashikanedunchezhian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/riyashikanedunchezhian-lgtm"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Coimbatore%2C%20India-📍-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-9.17%2F10-00E5A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/CIT-2025%E2%80%932029-6C5CE7?style=flat-square" />
+</p>
 
-### 🚀 About Me
+<p align="center">⸻</p>
 
-- 🔭 Currently building an **audit-workflow platform for CA firms** as a Founding Engineer at **OBLIQ.in**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=6C5CE7&section=header" />
+
+<h3 align="center">🚀 About Me</h3>
+
+> *"Exploring open-source, systems & Bitcoin — conquering myself to become a new person, one commit at a time."*
+
+<table align="center">
+<tr>
+<td>
+
+- 🔭 Currently building an **audit-workflow platform for CA firms** as Founding Engineer at **OBLIQ.in**
 - 🧠 Focused on **applied AI engineering** — LLM-powered features, agentic workflows, RAG, and evaluation
 - 🎓 B.E. Computer Science @ Coimbatore Institute of Technology (**CGPA: 9.17/10**)
 - 🛠️ Built a multi-node **LangGraph agent** with per-node cost tracking and an **LLM-as-a-Judge evaluation harness** with jury aggregation
 - 🌐 Selected member: **AMD**, **NVIDIA**, and **6G Developer Programs** · Member, **FOSSASIA** · **Google Product Expert**
 - 🦈 Open-source contributor — GitHub **Pull Shark** achievement
-- ⚡ Fun fact: conquering myself to become a new person, one commit at a time
+- ⚡ Comfortable across the stack: Python, FastAPI, LLM APIs, vector databases, Kotlin/Compose
 
----
+</td>
+</tr>
+</table>
 
-### 🧩 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00E5A0&section=header" />
+
+<h3 align="center">🧩 Featured Projects</h3>
+<p align="center"><i>Agentic systems, evaluation harnesses, and production-grade backends</i></p>
 
 <table>
 <tr>
@@ -78,9 +97,9 @@ AI-assisted family oral-history app (MVVM + Clean Architecture) using Gemini API
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=6C5CE7&section=header" />
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -106,9 +125,9 @@ AI-assisted family oral-history app (MVVM + Clean Architecture) using Gemini API
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00E5A0&section=header" />
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -123,8 +142,34 @@ AI-assisted family oral-history app (MVVM + Clean Architecture) using Gemini API
   <img src="https://github-profile-trophy.vercel.app/?username=riyashikanedunchezhian-lgtm&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=6C5CE7&section=header" />
+
+<h3 align="center">🌐 Programs & Affiliations</h3>
 
 <p align="center">
-  <i>⭐️ Currently exploring: open-source, distributed systems & Bitcoin — one repo at a time.</i>
+  <img src="https://img.shields.io/badge/AMD-Developer%20Program-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-Developer%20Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/6G-Developer%20Program-6C5CE7?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOSSASIA-Member-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOSS%20CIT-Technical%20Team-00E5A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google-Product%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00E5A0&section=header" />
+
+<h3 align="center">📊 Contribution Graph</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riyashikanedunchezhian-lgtm/riyashikanedunchezhian-lgtm/output/github-contribution-grid-snake-dark.svg" />
+</p>
+<p align="center"><sub>✨ Snake animation auto-generates once the workflow below is set up (see note at bottom)</sub></p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:6C5CE7,100:0A0A0B&height=150&section=footer" />
+
+<p align="center">
+  <i>⭐️ Currently exploring: open-source, distributed systems & Bitcoin — one repo at a time.</i><br>
+  <sub>Thanks for stopping by — <a href="mailto:riyashikanedunchezhian@gmail.com">let's build something</a> 🚀</sub>
 </p>
