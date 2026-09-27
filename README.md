@@ -89,7 +89,23 @@ class Riyashika:
 <br>
 
 <div align="center">
-<h3>II. HOW I WORK</h3>
+<h3>II. CURRENTLY</h3>
+</div>
+
+<br>
+
+- Shipping the **audit-workflow platform** at OBLIQ.in — currently deep in multi-tenant data isolation and role-based access edge cases
+- Extending the **LLM-as-a-Judge harness** to a 5th rubric dimension and tightening jury disagreement detection
+- Reading up on **Bitcoin's UTXO model** and distributed systems papers, slowly, alongside coursework
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,50:B5541B,100:146356&height=2" />
+
+<br>
+
+<div align="center">
+<h3>III. HOW I WORK</h3>
 </div>
 
 <br>
@@ -127,7 +143,7 @@ Every system I ship — from webhook pipelines to forecasting dashboards — car
 <br>
 
 <div align="center">
-<h3>III. EXPERIENCE</h3>
+<h3>IV. EXPERIENCE</h3>
 </div>
 
 <br>
@@ -158,7 +174,7 @@ One of the earliest engineers on the founding team, building an audit-workflow p
 <br>
 
 <div align="center">
-<h3>IV. SELECTED WORK</h3>
+<h3>V. SELECTED WORK</h3>
 <sub>Agentic systems, evaluation infrastructure, and production-grade backends</sub>
 </div>
 
@@ -257,7 +273,7 @@ An offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) featuring a Pom
 <br>
 
 <div align="center">
-<h3>V. TECHNICAL SURFACE</h3>
+<h3>VI. TECHNICAL SURFACE</h3>
 </div>
 
 <br>
@@ -307,15 +323,15 @@ An offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) featuring a Pom
 <br>
 
 <div align="center">
-<h3>VI. GITHUB ANALYTICS</h3>
+<h3>VII. GITHUB ANALYTICS</h3>
 </div>
 
 <br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=0D0221&title_color=B5541B&icon_color=A61E4D" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D0221&title_color=B5541B" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=riyashikanedunchezhian-lgtm&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=0D0221&title_color=B5541B&icon_color=A61E4D&text_color=e6e6e6" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyashikanedunchezhian-lgtm&layout=donut-vertical&theme=gruvbox&hide_border=true&bg_color=0D0221&title_color=B5541B&text_color=e6e6e6" />
 
 <br>
 
@@ -334,7 +350,7 @@ An offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) featuring a Pom
 <br>
 
 <div align="center">
-<h3>VII. PROGRAMS & AFFILIATIONS</h3>
+<h3>VIII. PROGRAMS & AFFILIATIONS</h3>
 </div>
 
 <br>
@@ -360,22 +376,40 @@ An offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) featuring a Pom
 <br>
 
 <div align="center">
-<h3>VIII. CONTRIBUTION ACTIVITY</h3>
+<h3>IX. CONTRIBUTION ACTIVITY</h3>
 </div>
 
 <br>
 
 <div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=riyashikanedunchezhian-lgtm&theme=github-compact&bg_color=0D0221&color=B5541B&line=A61E4D&point=146356&area=true&hide_border=true" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/riyashikanedunchezhian-lgtm/riyashikanedunchezhian-lgtm/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <br><br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A61E4D,50:B5541B,100:146356&height=2" />
+
+<br>
+
+<div align="center">
+<h3>X. CONTACT</h3>
+</div>
+
+<br>
+
+Open an issue or a discussion on any of the repos above — that's the fastest way to reach me, and I read all of them. For anything else, email works too.
+
 <div align="center">
 
-**Currently exploring:** open-source · distributed systems · Bitcoin
-
-<sub>[Let's build something](mailto:riyashikanedunchezhian@gmail.com)</sub>
+[![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=B5541B&labelColor=0D0221)](mailto:riyashikanedunchezhian@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A61E4D&labelColor=0D0221)](https://linkedin.com/in/riyashika-nedunchezhian-a17227390)
 
 </div>
 
