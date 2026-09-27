@@ -1,14 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:A61E4D,50:B5541B,75:146356,100:0D0221&height=300&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:A61E4D,50:B5541B,75:146356,100:0D0221&height=280&section=header&text=RIYASHIKA%20NEDUNCHEZHIAN&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Founding%20Engineer%20%40%20OBLIQ.in%20%C2%B7%20AI%2FLLM%20Systems%20Engineer&descAlignY=54&descSize=16&animation=fadeIn" />
 
 <br>
 
-# RIYASHIKA NEDUNCHEZHIAN
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=B5541B&center=true&vCenter=true&width=800&lines=Founding+Engineer+%E2%80%94+OBLIQ.in;AI%2FLLM+Systems+Engineer;Agentic+Workflows+%C2%B7+RAG+%C2%B7+Evaluation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=B5541B&center=true&vCenter=true&width=780&lines=Designing+multi-agent+LLM+systems+that+actually+ship;LangGraph+%7C+RAG+%7C+Tool-Calling+%7C+Cost-Aware+Routing;LLM-as-a-Judge+%7C+Jury+Aggregation+%7C+Bias+Mitigation;9.17+CGPA+%7C+Pull+Shark+%F0%9F%A6%88+%7C+Founding+Engineer" alt="Typing SVG" />
 
 <br><br>
 
@@ -17,10 +13,14 @@
 [![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=A61E4D&labelColor=0D0221)](mailto:riyashikanedunchezhian@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=146356&labelColor=0D0221)](https://github.com/riyashikanedunchezhian-lgtm)
+&nbsp;
+![views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=for-the-badge&color=B5541B&label=PROFILE+VIEWS&labelColor=0D0221)
 
 <br>
 
-![views](https://komarev.com/ghpvc/?username=riyashikanedunchezhian-lgtm&style=flat-square&color=B5541B&label=PROFILE+VIEWS)
+![Location](https://img.shields.io/badge/📍_Coimbatore,_India-0D0221?style=flat-square&labelColor=0D0221&color=A61E4D)
+![CGPA](https://img.shields.io/badge/CGPA-9.17%2F10-0D0221?style=flat-square&labelColor=0D0221&color=B5541B)
+![University](https://img.shields.io/badge/CIT-2025_–_2029-0D0221?style=flat-square&labelColor=0D0221&color=146356)
 
 </div>
 
@@ -52,6 +52,24 @@
 <br>
 
 Founding Engineer at **OBLIQ.in** and a computer science undergraduate (**B.E. CSE, CGPA 9.17/10**) working at the intersection of applied AI and production systems. My work sits across three layers: **agentic reasoning** — multi-node LangGraph systems that route, retrieve, and act; **evaluation infrastructure** — LLM-as-a-Judge harnesses that measure whether those systems can be trusted; and **backend engineering** — the audit trails, access controls, and idempotent pipelines that make AI-adjacent products safe to ship.
+
+<br>
+
+<table align="center" width="92%"><tr><td>
+
+```python
+class Riyashika:
+    def __init__(self):
+        self.role      = "Founding Engineer @ OBLIQ.in"
+        self.focus     = ["Agentic AI", "RAG Systems", "LLM Evaluation", "Backend Platforms"]
+        self.education = "B.E. CSE @ Coimbatore Institute of Technology (CGPA: 9.17/10)"
+        self.programs  = ["AMD", "NVIDIA", "6G Developer Program"]
+
+    def philosophy(self):
+        return "Build fast. Test harder. Ship what's provably correct."
+```
+
+</td></tr></table>
 
 <br>
 
@@ -244,45 +262,43 @@ An offline-first Android app (MVVM, Kotlin StateFlow/Coroutines) featuring a Pom
 
 <br>
 
-<table align="center" width="92%">
-<tr>
-<td width="25%" valign="top">
+<div align="center">
 
 **Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,go,java&theme=dark" />
 
-Python · Kotlin
-JavaScript · Go · SQL
-
-</td>
-<td width="25%" valign="top">
+<br><br>
 
 **AI / LLM**
+<br>
+![Anthropic](https://img.shields.io/badge/Claude_API-0D0221?style=flat-square&logo=anthropic&logoColor=B5541B&labelColor=0D0221)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D0221?style=flat-square&logo=openai&logoColor=A61E4D&labelColor=0D0221)
+![Gemini](https://img.shields.io/badge/Gemini-0D0221?style=flat-square&logo=googlegemini&logoColor=146356&labelColor=0D0221)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D0221?style=flat-square&logo=langchain&logoColor=B5541B&labelColor=0D0221)
+![RAG](https://img.shields.io/badge/RAG-0D0221?style=flat-square&labelColor=0D0221&color=A61E4D)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D0221?style=flat-square&labelColor=0D0221&color=146356)
 
-Anthropic Claude · OpenAI
-Gemini · LangGraph
-RAG · ChromaDB
+<br><br>
 
-</td>
-<td width="25%" valign="top">
+**Backend & Platform**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,redis,docker,mongodb,sqlite&theme=dark" />
 
-**Backend**
+<br><br>
 
-FastAPI · Flask
-Redis · Celery
-MongoDB · Docker
+**Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+![Prophet](https://img.shields.io/badge/Facebook_Prophet-0D0221?style=flat-square&logo=meta&logoColor=B5541B&labelColor=0D0221)
 
-</td>
-<td width="25%" valign="top">
+<br><br>
 
-**ML & Mobile**
+**Mobile & Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark" />
 
-TensorFlow · PyTorch
-scikit-learn · Prophet
-Kotlin Compose · Flutter
-
-</td>
-</tr>
-</table>
+</div>
 
 <br><br>
 
@@ -325,9 +341,15 @@ Kotlin Compose · Flutter
 
 <div align="center">
 
-AMD Developer Program &nbsp;·&nbsp; NVIDIA Developer Program &nbsp;·&nbsp; 6G Developer Program
-&nbsp;&nbsp;/&nbsp;&nbsp;
-FOSSASIA &nbsp;·&nbsp; FOSS CIT Technical Team &nbsp;·&nbsp; Google Product Expert
+![AMD](https://img.shields.io/badge/AMD-Developer_Program-0D0221?style=for-the-badge&logo=amd&logoColor=A61E4D&labelColor=0D0221)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Developer_Program-0D0221?style=for-the-badge&logo=nvidia&logoColor=146356&labelColor=0D0221)
+![6G](https://img.shields.io/badge/6G-Developer_Program-0D0221?style=for-the-badge&labelColor=0D0221&color=B5541B)
+
+<br>
+
+![FOSSASIA](https://img.shields.io/badge/FOSSASIA-Global_Member-0D0221?style=for-the-badge&labelColor=0D0221&color=A61E4D)
+![FOSS CIT](https://img.shields.io/badge/FOSS_CIT-Technical_Team-0D0221?style=for-the-badge&labelColor=0D0221&color=146356)
+![Google](https://img.shields.io/badge/Google-Product_Expert-0D0221?style=for-the-badge&logo=google&logoColor=B5541B&labelColor=0D0221)
 
 </div>
 
