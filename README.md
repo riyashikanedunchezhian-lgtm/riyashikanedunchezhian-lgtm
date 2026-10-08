@@ -185,9 +185,14 @@ One of the earliest engineers on the founding team, building an audit-workflow p
 
 **01 — Multi-Agent Research Assistant**
 
-A multi-node LangGraph agent — router, retrieval, tool-calling, synthesis — combining RAG over a ChromaDB vector store with agentic tool use across a calculator, web search, and code execution.
+A LangGraph workflow that decides how to answer each question instead of sending everything through one prompt.
 
-*Per-node token/cost tracking with cost-aware routing → cheap model for routing, stronger model for synthesis. Full reasoning-trace observability. Graceful degradation on tool failure.*
+A router classifies each query as retrieval, tool use, both, or uncertain, and falls back to retrieval when its confidence is low
+Retrieval searches a ChromaDB vector store using sentence-transformer embeddings, with no LLM call
+A tool node handles a calculator, web search, date lookup and code execution
+A synthesis node writes the final answer; a cheaper model handles routing and a stronger one is kept for synthesis
+Tool failures are caught and passed along, so the system still answers from what it has
+Every step is traceable, and the behaviour is covered by tests
 
 `Python` `LangGraph` `RAG` `ChromaDB` `FastAPI` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/multi-agent-research-assistant)
 
@@ -196,9 +201,13 @@ A multi-node LangGraph agent — router, retrieval, tool-calling, synthesis — 
 
 **02 — LLM Evaluation Harness**
 
-An LLM-as-a-Judge system scoring outputs across five rubric dimensions using three-judge jury aggregation to reduce single-judge variance and detect position bias.
+An LLM-as-a-Judge evaluation system built around the question: how far can you trust a single judge call?
 
-*3x latency reduction via parallelized judging. Quality, latency, and per-call cost tracked across Claude and GPT variants on 25 test prompts. Live Streamlit dashboard visualizing tradeoffs.*
+Scores model outputs on a multi-dimension rubric (correctness, relevance, conciseness, clarity, safety), with a written justification for every score
+Uses a jury of independent judge calls and treats the spread between their scores as a confidence signal, so low-agreement cases are flagged instead of averaged away
+Swaps answer order between calls to test for position bias
+Runs judge calls in parallel, and tracks latency, token usage and cost per call
+Includes a Streamlit dashboard and a pytest suite
 
 `Python` `LLM-as-a-Judge` `Claude & GPT APIs` `Streamlit` · [→ Repository](https://github.com/riyashikanedunchezhian-lgtm/llm-evaluation-harness)
 
